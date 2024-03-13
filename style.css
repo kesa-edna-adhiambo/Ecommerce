@@ -1,23 +1,35 @@
-#nav-bar li{
+#menu{
+    padding: 50px 25px;
+    text-align: center;
+ 
+  
+}
+
+#nav-bar1 li{
 
     display: inline-block;
    justify-content: space-between; 
    padding: 50px;
     
 }
-#nav-bar a{
+#nav-bar1 a{
     text-decoration: none;
     color: black;
 }
-#nav-bar{
+#nav-bar1{
     margin: o auto;
 }
 
-#navbar{
-        padding: 50px 25px;
-        text-align: center;
+#content1{
+    margin-left: 250px;
+    display: flex;
+
 }
 
-.content1{
-    
+#paragraphs{
+    display: inline-block;
+}
+
+#icons{
+  display: inline-block;
 }
